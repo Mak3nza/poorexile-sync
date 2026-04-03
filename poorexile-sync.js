@@ -16,7 +16,7 @@
 (function() {
     'use strict';
 
-    let intervalSeconds = GM_getValue("sync_interval", 60);
+    let intervalSeconds = GM_getValue("sync_interval", 900);
     let timer;
 
     function findSyncButton() {
