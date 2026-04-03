@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Wealthy Exile Configurable Auto-Sync
 // @namespace    https://github.com/Mak3nza/poorexile-sync
-// @version      0.1
+// @version      0.2
 // @description  Improve wealthy exile to autosync cuz poor
 // @author       Makenza
 // @match        https://wealthyexile.com/stash*
